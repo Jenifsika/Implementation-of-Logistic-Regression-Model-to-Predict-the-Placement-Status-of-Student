@@ -111,7 +111,7 @@ Accuracy value:
 
 Confusion Matix:
 
-<img width="879" height="574" alt="image" src="https://github.com/user-attachments/assets/d11073c5-7822-4ad3-ae56-7f5c82cb2064" />
+<img width="858" height="641" alt="image" src="https://github.com/user-attachments/assets/760fa3c5-2ea6-4320-89e6-07d52ec99a0e" />
 
 
 Classification Report :
